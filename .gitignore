@@ -2,3 +2,5 @@
 /src/minis_posters/src
 *.bat
 *.log
+/minis/_SRC_BANNER
+/minis/_SRC_VIDEO_FILES
